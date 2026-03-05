@@ -18,8 +18,6 @@ _Projeto de TCC — Universidade de Vassouras · Curso de Engenharia de Software
 [📱 Sobre o Projeto](#-sobre-o-projeto) •
 [🚀 Funcionalidades](#-funcionalidades) •
 [🛠️ Tecnologias](#️-tecnologias) •
-[📁 Estrutura](#-estrutura-do-projeto) •
-[⚙️ Como Rodar](#️-como-rodar-localmente) •
 [👥 Time](#-time)
 
 </div>
